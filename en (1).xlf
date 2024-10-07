@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global" datatype="plaintext" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="app.agreement">
+        <source xml:lang="en">I have read and agreed to the Nekocafé Terms of Service and Privacy Notice</source>
+        <target xml:lang="en">I have read and agreed to the Nekocafé Terms of Service and Privacy Notice</target>
+      </trans-unit>
+      <trans-unit id="app.email">
+        <source xml:lang="en">your@email.com</source>
+        <target xml:lang="en">your@email.com</target>
+      </trans-unit>
+      <trans-unit id="app.email.address">
+        <source xml:lang="en">Email address</source>
+        <target xml:lang="en">Email address</target>
+      </trans-unit>
+      <trans-unit id="app.login">
+        <source xml:lang="en">Already have an account? Log in</source>
+        <target xml:lang="en">Already have an account? Log in</target>
+      </trans-unit>
+      <trans-unit id="app.offers">
+        <source xml:lang="en">I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.</source>
+        <target xml:lang="en">I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.</target>
+      </trans-unit>
+      <trans-unit id="app.password">
+        <source xml:lang="en">Password</source>
+        <target xml:lang="en">Password</target>
+      </trans-unit>
+      <trans-unit id="app.pwcharacters">
+        <source xml:lang="en">Your chosen password must contain at least 8 characters</source>
+        <target xml:lang="en">Your chosen password must contain at least 8 characters</target>
+      </trans-unit>
+      <trans-unit id="app.signup">
+        <source xml:lang="en">Sign Up</source>
+        <target xml:lang="en">Sign Up</target>
+      </trans-unit>
+      <trans-unit id="app.username">
+        <source xml:lang="en">Username</source>
+        <target xml:lang="en">Username</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

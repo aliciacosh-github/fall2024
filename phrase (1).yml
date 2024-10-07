@@ -1,0 +1,15 @@
+phrase:
+  project_id: 2b9c598f0e951cfb2253c44ddae8b948
+  push:
+    sources:
+      - file: ./<locale_name>.xlf
+        params:
+          file_format: xlf
+          locale_id: en
+          update_translations: true
+          autotranslate: true
+  pull:
+    targets:
+      - file: ./<locale_name>.xlf
+        params:
+          file_format: xlf
