@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global" datatype="plaintext" source-language="en" target-language="fr">
+    <body>
+      <trans-unit id="app.agreement">
+        <source xml:lang="en">I have read and agreed to the Nekocafé Terms of Service and Privacy Notice</source>
+        <target xml:lang="fr">J'ai lu et j'accepte les conditions d'utilisation et l'avis de confidentialité de Nekocafé</target>
+      </trans-unit>
+      <trans-unit id="app.email">
+        <source xml:lang="en">your@email.com</source>
+        <target xml:lang="fr">your@email.com</target>
+      </trans-unit>
+      <trans-unit id="app.email.address">
+        <source xml:lang="en">Email address</source>
+        <target xml:lang="fr">Adresse e-mail</target>
+      </trans-unit>
+      <trans-unit id="app.login">
+        <source xml:lang="en">Already have an account? Log in</source>
+        <target xml:lang="fr">Vous avez déjà un compte ? Connectez-vous</target>
+      </trans-unit>
+      <trans-unit id="app.offers">
+        <source xml:lang="en">I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.</source>
+        <target xml:lang="fr">Je ne souhaite pas recevoir d'offres exclusives, de promotions, de rappels ou d'autres informations concernant Nekocafé.</target>
+      </trans-unit>
+      <trans-unit id="app.password">
+        <source xml:lang="en">Password</source>
+        <target xml:lang="fr">Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="app.pwcharacters">
+        <source xml:lang="en">Your chosen password must contain at least 8 characters</source>
+        <target xml:lang="fr">Le mot de passe que vous avez choisi doit contenir au moins 8 caractères</target>
+      </trans-unit>
+      <trans-unit id="app.signup">
+        <source xml:lang="en">Sign Up</source>
+        <target xml:lang="fr">S'inscrire</target>
+      </trans-unit>
+      <trans-unit id="app.username">
+        <source xml:lang="en">Username</source>
+        <target xml:lang="fr">Nom d'utilisateur</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global" datatype="plaintext" source-language="en" target-language="es">
+    <body>
+      <trans-unit id="app.agreement">
+        <source xml:lang="en">I have read and agreed to the Nekocafé Terms of Service and Privacy Notice</source>
+        <target xml:lang="es">He leído y acepto las Condiciones de servicio y el Aviso de privacidad de Nekocafé</target>
+      </trans-unit>
+      <trans-unit id="app.email">
+        <source xml:lang="en">your@email.com</source>
+        <target xml:lang="es">your@email.com</target>
+      </trans-unit>
+      <trans-unit id="app.email.address">
+        <source xml:lang="en">Email address</source>
+        <target xml:lang="es">Dirección de correo</target>
+      </trans-unit>
+      <trans-unit id="app.login">
+        <source xml:lang="en">Already have an account? Log in</source>
+        <target xml:lang="es">¿Ya tiene una cuenta? Conectarse</target>
+      </trans-unit>
+      <trans-unit id="app.offers">
+        <source xml:lang="en">I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.</source>
+        <target xml:lang="es">No deseo recibir ofertas exclusivas, promociones, recordatorios y más relacionados con Nekocafé.</target>
+      </trans-unit>
+      <trans-unit id="app.password">
+        <source xml:lang="en">Password</source>
+        <target xml:lang="es">Contraseña</target>
+      </trans-unit>
+      <trans-unit id="app.pwcharacters">
+        <source xml:lang="en">Your chosen password must contain at least 8 characters</source>
+        <target xml:lang="es">La contraseña elegida debe contener al menos 8 caracteres</target>
+      </trans-unit>
+      <trans-unit id="app.signup">
+        <source xml:lang="en">Sign Up</source>
+        <target xml:lang="es">Inscribirse</target>
+      </trans-unit>
+      <trans-unit id="app.username">
+        <source xml:lang="en">Username</source>
+        <target xml:lang="es">Nombre de usuario</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
