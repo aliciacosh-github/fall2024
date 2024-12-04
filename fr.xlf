@@ -22,7 +22,7 @@
         <source xml:lang="en">Username</source>
         <target xml:lang="fr">Nom d'utilisateur</target>
       </trans-unit>
-      <trans-unit id="app.agreement">
+      <trans-unit id="app.agreement" maxwidth="81" size-unit="char">
         <source xml:lang="en">I have read and agreed to the Nekocafé Terms of Service and Privacy Notice</source>
         <target xml:lang="fr">J'ai lu et j'accepte les conditions d'utilisation et l'avis de confidentialité de Nekocafé</target>
       </trans-unit>
