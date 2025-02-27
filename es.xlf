@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="app.pwcharacters">
         <source xml:lang="en">Your chosen password must contain at least 8 characters</source>
-        <target xml:lang="es">La contraseña elegida debe contener al menos 8 caracteres</target>
+        <target xml:lang="es">La clave que elijas tiene que tener al menos 8 letras.</target>
       </trans-unit>
       <trans-unit id="app.signup">
         <source xml:lang="en">Sign Up</source>
